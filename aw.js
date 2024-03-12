@@ -14,7 +14,7 @@
 ^https?:\/\/.*(cloudfront|jiuyianwang).+\/api\/app\/(mine\/(info|wallet|announce)|ping\/domain\/h5) url script-response-body https://raw.githubusercontent.com/zengf51/91anwang/main/aw.js
 
 [mitm] 
-hostname = jiuyianwang.static.wang, d32qxw0jezyiln.cloudfront.net, d3n6dfzpx82w4a.cloudfront.net, d3nd57x75evb6z.cloudfront.net ,*.cloudfront.*
+hostname = jiuyianwang.static.wang, d32qxw0jezyiln.cloudfront.net, d3n6dfzpx82w4a.cloudfront.net, d3nd57x75evb6z.cloudfront.net,*.cloudfront.*
 
 *******************************/
 
