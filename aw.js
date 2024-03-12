@@ -8,6 +8,7 @@
 脚本发布: https://t.me/yqc_123
 使用声明: ⚠️仅供学习交流, 🈲️商业用途
 *******************************
+
 [rewrite_local]
 # > 91暗网破解全部视频
 ^https?:\/\/.*(cloudfront|sunshuyang2016).+\/api\/app\/(mine\/(info|wallet|announce)|ping\/domain\/h5) url script-response-body https://raw.githubusercontent.com/zengf51/91anwang/main/aw.js
