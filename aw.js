@@ -10,7 +10,7 @@
 *******************************
 [rewrite_local]
 # > 91暗网破解全部视频
-^https?:\/\/.*(cloudfront|sunshuyang2016).+\/api\/app\/(mine\/(info|wallet|announce)|ping\/domain\/h5) url script-response-body https://raw.githubusercontent.com/zengf51/91anwang/main/aw1.js
+^https?:\/\/.*(cloudfront|sunshuyang2016).+\/api\/app\/(mine\/(info|wallet|announce)|ping\/domain\/h5) url script-response-body https://raw.githubusercontent.com/zengf51/91anwang/main/aw.js
 
 [mitm] 
 hostname = sunshuyang2016.static.wang, d32qxw0jezyiln.cloudfront.net, d3n6dfzpx82w4a.cloudfront.net, d3nd57x75evb6z.cloudfront.net ,*.cloudfront.*
